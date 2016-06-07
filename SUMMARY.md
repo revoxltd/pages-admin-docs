@@ -5,5 +5,5 @@
 * [Getting Started](getting_started.md)
 * [LESS](less.md)
 * [SASS/SCSS](sassscss.md)
-* Starter Kit
+* [Starter Kit](starter_kit.md)
 

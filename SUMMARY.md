@@ -12,4 +12,5 @@
 * [Apps](apps.md)
    * [Calendar](calendar.md)
 * Dependencies
+   * Pages jquery
 

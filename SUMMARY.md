@@ -11,6 +11,6 @@
 * [API Reference](api_reference.md)
 * [Apps](apps.md)
    * [Calendar](calendar.md)
-* Dependencies
+* [Dependencies](dependencies.md)
    * Pages jquery
 

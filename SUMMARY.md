@@ -9,6 +9,6 @@
    * [Sails.js](sailsjs.md)
    * [Express.js](expressjs.md)
 * [API Reference](api_reference.md)
-* Apps
+* [Apps](apps.md)
    * Calendar
 

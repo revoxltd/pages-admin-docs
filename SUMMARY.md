@@ -2,5 +2,5 @@
 
 * [Introduction](introduction.md)
 * [LESS](less.md)
-* Getting Started
+* [Getting Started](getting_started.md)
 

@@ -10,5 +10,5 @@
    * [Express.js](expressjs.md)
 * [API Reference](api_reference.md)
 * [Apps](apps.md)
-   * Calendar
+   * [Calendar](calendar.md)
 

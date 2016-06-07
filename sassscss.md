@@ -9,6 +9,10 @@ Sass is a CSS pre-processor, meaning that it extends the CSS language, adding fe
 
 Sass Files are found under ```pages/src/sass```
 
+###Modules
+
+The seperation of modules help you to remove whats not necessary and build your own custom pages css
+
 | Name | Description |
 | --- | --- |
 | layout.scss | The core layout styles for pages |

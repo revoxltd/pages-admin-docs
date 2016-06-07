@@ -13,7 +13,7 @@ Once you have download the package you will see the following folder structure
 This folder is a boilerplate template to help you start your project from. You will find both AngularJS and jQuery versions inside this.
 
 
-In the getting_started folder you will find both jQuery and AngularJS implementations of Pages. Pages was originally written in jQuery. To make it work on AngularJS environments, several directives and controllers were written in v2.0.
+In the getting_started folder you will find both jQuery and AngularJS implementations of Pages. Pages was originally written in jQuery. To make it work on AngularJS environments, several directives and controllers wrote in v2.0.
 
 Folder structure inside these two folders are almost the same except for the assets folder. In AngularJS this will contain directives and controllers which are mandatory for Pages to work, whereas in jQuery version you can have your own files.
 
@@ -37,7 +37,7 @@ Contains template HTML files that are lazy loaded and rendered for each state
 
 
 ###Whats Inside demo
-This folder contains all the demo files that we have shown in the live version for reference, you may wish to import code to your project from that. This is only used for reference and we do no recommend to start your project from demo files. Contains files for both AngularJS and jQuery users
+This folder contains all the demo files that we have shown in the live version for your reference. You may wish to import code to your project from that. This is only used for reference and we do no recommend to start your project from demo files. Contains files for both AngularJS and jQuery users
 
 
 ###Whats Inside grunt and gulp

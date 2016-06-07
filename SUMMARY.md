@@ -1,5 +1,5 @@
 # Summary
 
-* [LESS](README.md)
+* [LESS](less.md)
 * [Introduction](introduction.md)
 

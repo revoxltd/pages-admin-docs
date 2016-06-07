@@ -8,6 +8,14 @@ Pages comes in two forms, within which you'll find the following directories and
 
 Once you have download the package you will see the following folder structure
 
+{% asciitree %}
+app
+-main.js
+-helper.js
+-others
+--Brocfile.js
+package.json
+{% endasciitree %}
 
 ##Whats Inside getting_started
 This folder is a boilerplate template to help you start your project from. You will find both AngularJS and jQuery versions inside this.

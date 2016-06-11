@@ -7,7 +7,7 @@
         "styles-less"
     ],
     "styles": {
-        "website": "./styles/website.less"
+        "website": "./styles/website/website.less"
     },
     "pluginsConfig": {}
 }

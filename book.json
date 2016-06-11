@@ -8,6 +8,6 @@
     ],
     "styles": {
         "website": "./styles/website.less"
-    }
+    },
     "pluginsConfig": {}
 }

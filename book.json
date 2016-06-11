@@ -3,8 +3,7 @@
         "asciitree",
         "language-picker",
         "copy-code-button",
-        "versions",
-        "-gitversion"
+        "versions"
     ],
     "pluginsConfig": {}
 }

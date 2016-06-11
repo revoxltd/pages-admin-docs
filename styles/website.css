@@ -1,0 +1,11 @@
+.book-header{
+    background: #2b303b;
+}
+
+.page-wrapper{
+  padding-top: 49px;
+}
+
+.book.with-summary .book-summary{
+padding-top: 49px;
+}

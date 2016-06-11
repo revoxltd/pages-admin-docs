@@ -1,5 +1,8 @@
 .book-header{
     background: #2b303b;
+    position:fixed;
+    left:0;
+    right:0;
 }
 
 .page-wrapper{

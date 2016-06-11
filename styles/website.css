@@ -13,7 +13,7 @@
 padding-top: 49px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6, h1, h2, h3, h4, h5, h6 {
     margin: 10px 0;
     font-family: "Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
     display: block;
     font-family: Arial,sans-serif;
-    font-size: 13px;
+    font-size: 13px !important;
     font-weight: normal;
     letter-spacing: 0.01em;
     line-height: 22px;
@@ -35,7 +35,7 @@ p {
     white-space: normal;
 }
 
-hr {
+.markdown-section hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;

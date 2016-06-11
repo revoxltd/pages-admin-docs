@@ -1,1 +1,11 @@
 /* CSS for website */
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0;
+    font-family: "Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    font-weight: 300;
+    color: #2c2c2c;
+}

@@ -3,7 +3,8 @@
         "asciitree",
         "language-picker",
         "copy-code-button",
-        "versions"
+        "versions",
+        "styles-less"
     ],
     "pluginsConfig": {}
 }

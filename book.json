@@ -6,5 +6,8 @@
         "versions",
         "styles-less"
     ],
+    "styles": {
+        "website": "./styles/website.less"
+    }
     "pluginsConfig": {}
 }

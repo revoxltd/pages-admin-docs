@@ -4,53 +4,17 @@
 
 A list of core plugins required to run Pages, Pages.js depents on the following plugins and marked as required / optional
 
-1. jquery.js  **REQUIRED**
-```
-Core JS Library
-```
-
-* mordnerizer.js
-**REQUIRED**
-```
-Core JS Library
-```
-* bootstrap.js
-**REQUIRED**
-```
-Core JS Library
-```
-
-* jquery-easy.js
-**OPTIONAL**
-```
-Used for animations in IE
-```
-* jquery-unviel.js
-**OPTIONAL**
-```
-Library Used for displaying retina images
-```
-* jquery-bez.js
-**OPTIONAL**
-```
-Sidebar Animation Lib for IE9
-```
-
-* jquery.ioslist.js
-**OPTIONAL**
-```
-Used Chat list on the quickview
-```
-* jquery.actual.js
-**OPTIONAL**
-```
-Determine image dimentions
-```
-* jquery.scrollbar.js
-**OPTIONAL**
-```
-Scrollbar plugin used in sidebar and portlets
-```
+| Plugin | Description | Dep. Status |
+| -- | -- | -- |
+| jquery.js | Core JS Library | **REQUIRED** |
+| mordnerizer.js | Browser Feature Detection | **REQUIRED** |
+|bootstrap.js| Core Framework | **REQUIRED**
+|jquery-easy.js| Used for animations in IE | **OPTIONAL**
+|jquery-unviel.js|Library Used for displaying retina images|**OPTIONAL**|
+|jquery-bez.js|Sidebar Animation Lib for IE9|**OPTIONAL**|
+|jquery.ioslist.js| Used Chat list on the quickview| **OPTIONAL**|
+|jquery.actual.js|Determine image dimentions| **OPTIONAL**|
+|jquery.scrollbar.js|Scrollbar plugin used in sidebar and portlets|**OPTIONAL**|
 
 
 

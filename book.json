@@ -2,7 +2,8 @@
     "plugins": [
         "asciitree",
         "language-picker",
-        "copy-code-button"
+        "copy-code-button",
+        "versions"
     ],
     "pluginsConfig": {}
 }

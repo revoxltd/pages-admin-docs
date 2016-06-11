@@ -4,7 +4,7 @@
         "language-picker",
         "copy-code-button",
         "versions",
-        "gitversion"
+        "-gitversion"
     ],
     "pluginsConfig": {}
 }

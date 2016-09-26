@@ -349,7 +349,8 @@ Markup for posts
 ##Initializing Pages Social
 
 Pages will auto-initialize Social if elements with following data-properties are found in the DOM. The following shows the default settings object for Social
-``
+
+```
 $.fn.social.defaults = {
         cover: '[data-social="cover"]',
         day: '[data-social="day"]',
@@ -357,10 +358,13 @@ $.fn.social.defaults = {
         item: '[data-social="item"]',
         colWidth: 300
     }
+```
 
 If you wish to make the initialization programatically, refrain from using the above data properties in the DOM. Set the classes/ids you defined in the DOM in $.fn.social.defaults object and then call the initialization script.
 
 The minimum column width for Social is 300 pixels. If you wish to change it, you may have edit the .col1,.col2 and .col3 in the CSS accordingly. ex: If colWidth is 400, .col1,.col2 and .col3 will get 400px, 820px and 1220px (Note the extra 20px reserved for gutter width)
+
+```
 $(document).ready(function() {
     $.fn.social.defaults = {
         cover: '.cover', // Cover element
@@ -371,12 +375,12 @@ $(document).ready(function() {
     }
     $('#social').social();
 });
+```
 
-
-AngularJS users
-Dependencies
+##AngularJS users
+####Dependencies
 You will find social app route and dependency injections in demo/angular/assets/js/config.js. Controllers and Directives are found in assets/js/apps/social/social.js and these depend social lib, pages.social.min.js mentioned above
-
+```
 // File: demo/angular/assets/js/config.js
 ...
 // Social app
@@ -401,9 +405,10 @@ You will find social app route and dependency injections in demo/angular/assets/
     }
 })
 ...
-Template
+```
+####Template
 Please refer to jQuery section above for Markup for posts and cover.
-
+```
 <!-- File: tpl/apps/social/social.html -->
 <div class="social-wrapper" ng-controller="SocialCtrl">
     <div class="social " data-pages="social" pg-social>
@@ -426,7 +431,10 @@ Please refer to jQuery section above for Markup for posts and cover.
     </div>
     <!-- /container -->
 </div>
-Controller and Directive
+```
+
+####Controller and Directive
+```
 // File: assets/js/apps/social/social.js
 'use strict';
 
@@ -458,3 +466,4 @@ angular.module('app')
             }
         }
     });
+```

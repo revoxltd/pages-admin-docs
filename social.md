@@ -408,7 +408,7 @@ You will find social app route and dependency injections in demo/angular/assets/
 ```
 ####Template
 Please refer to jQuery section above for Markup for posts and cover.
-
+{% include "includes/angular/social.md" %}
 
 ####Controller and Directive
 ```

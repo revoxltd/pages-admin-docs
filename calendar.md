@@ -9,6 +9,7 @@ Pages calendar plugin is exclusive only on pages and is not a third party plugin
 
 ```
 
+
 #####Pages Calendar Lib
 ```
 <script src="pages/js/pages.calendar.min.js"></script>

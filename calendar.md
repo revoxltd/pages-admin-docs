@@ -14,12 +14,14 @@ Pages calendar plugin is exclusive only on pages and is not a third party plugin
 ```
 <script src="pages/js/pages.calendar.min.js"></script>
 ```
+
 #####HTML Source
 
 Inlcude the following HTML source to your file, you can remove the compontents you do not need to have
 ```
 <div id="myCalendar" class="full-height"></div>
 ```
+
 #####Initialize Pages Calendar
 
 To initialize pages calendar with default setting use the following code

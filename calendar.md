@@ -8,13 +8,12 @@ Pages calendar plugin is exclusive only on pages and is not a third party plugin
 <script src="assets/plugins/moment/moment-with-locales.min.js"></script>
 
 ```
-
-
-#####Pages Calendar Li
+<br>
+#####Pages Calendar Lib
 ```
 <script src="pages/js/pages.calendar.min.js"></script>
 ```
-
+<br>
 #####HTML Source
 
 Inlcude the following HTML source to your file, you can remove the compontents you do not need to have

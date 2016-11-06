@@ -7,7 +7,7 @@
 
 Sass is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions. Pages supports Sass and is pure built on top of Sass
 
-Sass Files are found ```pages/src/sass```
+Files are found ```pages/src/sass```
 
 ###Modules
 
